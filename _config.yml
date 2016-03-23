@@ -2,6 +2,7 @@ name: ccis01
 favicon: null
 layout_spectrum: 0.32696267566643655
 typography_spectrum: 0.12131639989092946
+title: CCIS-01
 cta:
   domain: null
   bucket: null
