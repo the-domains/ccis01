@@ -1,20 +1,4 @@
-name: ccis01
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4122
-title: CCIS-01
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#00aff0'
@@ -24,6 +8,11 @@ color:
     - '#807f80'
   brandStrength: 0.25
   lightness: 0.8487170517910272
-  saturation: 0.2972318350803107
   rhythmicContrast: 0.21741429646499455
+  saturation: 0.2972318350803107
+cta: {}
+layout_spectrum: 0.21176
+name: ccis01
+opengraph: {}
 purpose: []
+typography_spectrum: 0.638158
